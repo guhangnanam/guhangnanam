@@ -1,11 +1,10 @@
-# Hello there 👋, I'm Colin But
+# Hello there 👋, I'm Guhan But
 
-### Software/DevOps/Cloud Engineer
+### Software and ML Engineer
 
-- 🔭 I’m currently working on: __DevOps & Site Reliability Engineering__ 
-- 🌱 I’m currently learning: __Blockchain, Solidity Programming, Go__
-- 💬 Ask me about __DevOps, SRE, Cloud Engineering (AWS), IAC, CI/CD, Docker, Kubernetes, Software Dev...__
-- 🧧 Chinese name: __畢少謙__
+- 🔭 I’m currently working on: Full-stack Software Engineering 
+- 🌱 I’m currently learning: Agile Development, Project Management
+- 💬 Ask me about Backend, Frontend, Flutter, Machine Learning, AI
 - ⚡ Fun fact: Having grew up in Scotland, I've never tasted Haggis
 
 <br/>
