@@ -12,16 +12,15 @@
 
 <table>
     <tr>
-        <th>My Blog</th>
-        <th>My Website</th>
         <th>My CV</th>
+        <th>My Website</th>
     </tr>
     <tr>
         <td>
-            <a href="">🌐</a>
+            <a href="https://drive.google.com/file/d/1x914ppUtgbJIZXd4HCVYQFG3Bo9Mvos0/view?usp=sharing">📃</a>
         </td>
         <td>
-            <a href="https://drive.google.com/file/d/1x914ppUtgbJIZXd4HCVYQFG3Bo9Mvos0/view?usp=sharing">📃</a>
+            <a href="">🌐</a>
         </td>
     </tr>
 </table>
