@@ -138,7 +138,7 @@
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/pycharm/pycharm-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/intellij/intellij-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://icons8.com/icon/32sNCVhNAx9Y/webstorm" width="40" height="40"/></a>
+            <a href=""><img src="![image](https://github.com/guhangnanam/guhangnanam/assets/116681361/81a9cf1d-4f3e-417e-a6a4-01bd46789875)" width="40" height="40"/></a>
             <!-- <a href=""><img src="https://worldvectorlogo.com/download/sublime-text.svg"/></a> -->
         </td>
     </tr>
