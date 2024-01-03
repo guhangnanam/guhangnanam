@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Guhan But
+# Hello there 👋, I'm Guhan
 
 ### Software and ML Engineer
 
