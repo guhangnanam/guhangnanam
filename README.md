@@ -18,13 +18,10 @@
     </tr>
     <tr>
         <td>
-            <a href="https://colin-but.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
+            <a href="">🌐</a>
         </td>
         <td>
-            <a href="https://colinbut.github.io/">🌐</a>
-        </td>
-        <td>
-            <a href="https://colinbut.github.io/online-resume">📃</a>
+            <a href="https://drive.google.com/file/d/1x914ppUtgbJIZXd4HCVYQFG3Bo9Mvos0/view?usp=sharing">📃</a>
         </td>
     </tr>
 </table>
@@ -33,9 +30,12 @@
 
 ### Contact me:
 
-<a href="https://twitter.com/Colin_But"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/in/colinbut/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-<a href="https://www.pinterest.co.uk/colinbut"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/guhangnanam/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<a href="https://app.usebraintrust.com/talent/574169/"><img src="![image](https://github.com/guhangnanam/guhangnanam/assets/116681361/14c7d371-58c8-4812-900c-cbd9d61bae71)
+" width="40" height="40"/></a
+<a href="https://wellfound.com/u/guhan-gnanam"><img src="![image](https://github.com/guhangnanam/guhangnanam/assets/116681361/ccdffb02-1c77-48b1-8d42-32aa42efb194)
+" width="40" height="40"/></a>
+
 
 ### Toolset
 
