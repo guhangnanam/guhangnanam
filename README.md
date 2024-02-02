@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on: Full-stack Software Engineering 
 - 🌱 I’m currently learning: Agile Development, Project Management
 - 💬 Ask me about Backend, Frontend, Flutter, Machine Learning, AI
-- ⚡ Fun fact: Having grew up in Scotland, I've never tasted Haggis
 
 <br/>
 
