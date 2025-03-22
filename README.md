@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/guhan-gnanam">LinkedIn</a> •
-  <a href="https://github.com/guhanganam">GitHub</a>
+  <a href="https://github.com/guhangnanam">GitHub</a>
 </p>
 
 <!-- About section -->
@@ -45,13 +45,13 @@ I’m passionate about problem solving, full-stack development, and exploring ne
 
 <div>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guhanganam" alt="Guhan's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guhanganam&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Guhan's language" height="192px" width="500px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guhangnanam&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Guhan's language" height="192px" width="500px"/>
 </div>
 
 **Expand to view**
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=guhanganam&show_icons=true" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=guhangnanam&show_icons=true" />
 </details>
 
 <!-- GitHub section: END -->
