@@ -23,11 +23,11 @@ I’m passionate about problem solving, full-stack development, and exploring ne
 
 - 😄 My Pronouns: He/Him   
 
-- 💬 Ask me about: C#, .NET, Python, Machine Learning, or organizing campus events.
+- 💬 Ask me about: Python, Machine Learning, C++, Java, Dart, Etc.
 
 - 📫 How to reach me: [@guhanganam](https://linkedin.com/in/guhan-gnanam)
 
-- ⚡ Fun fact: I enjoy organizing chill events with food and conversation like "Bites and Banter" — and I’m always down to brainstorm the next one!
+- ⚡ Fun fact: I've gotten really into ML recently and I'm currently taking Introduction to Machine Learning at UF
 
 <!-- About section: END -->
 
