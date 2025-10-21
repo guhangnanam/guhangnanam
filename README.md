@@ -45,7 +45,8 @@ I’m passionate about problem solving, full-stack development, and exploring ne
 
 <div>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guhangnanam" alt="Guhan's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhangnanam&layout=compact&theme=transparent" alt="Guhan's Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhanganam&hide=powershell,cython,cmake,c&layout=compact&theme=transparent" alt="Guhan's Top Languages" />
+
 </div>
 
 **Expand to view**
