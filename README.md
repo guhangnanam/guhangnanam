@@ -36,7 +36,7 @@ I’m passionate about problem solving, full-stack development, and exploring ne
 <h2>Connect with me </h2>
 <p>
   <a href="https://linkedin.com/in/guhan-gnanam"><img src="https://img.shields.io/badge/-Guhan%20Gnanam-blue?style=plastic&labelColor=blue&logo=LinkedIn" alt="LinkedIn Badge"></a> 
-  <a href="https://github.com/guhanganam"><img src="https://img.shields.io/badge/-Guhan%20Gnanam-informational?style=plastic&labelColor=informational&logo=GitHub" alt="GitHub Badge"></a>
+  <a href="https://github.com/guhangnanam"><img src="https://img.shields.io/badge/-Guhan%20Gnanam-informational?style=plastic&labelColor=informational&logo=GitHub" alt="GitHub Badge"></a>
 </p>
 
 <!-- GitHub section -->
